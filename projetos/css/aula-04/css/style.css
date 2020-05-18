@@ -3,22 +3,22 @@
     text-align: justify;
     padding: 10px;
 
-    /*São em Prioridades, 1ª Arial, 2ª Halvetica e 3ª Sans-Serif.
-    Se não tiver Arial, tentará Helvetica, se não tiver Helvetica, usará uma fonte Genérica da Familía.*/
+    /* São em Prioridades, 1ª Arial, 2ª Halvetica e 3ª Sans-Serif.
+    Se não tiver Arial, tentará Helvetica, se não tiver Helvetica, usará uma fonte Genérica da Familía. */
     font-family: Arial, Helvetica, sans-serif;
 }
 
 h1{
     background-image: url('../img/yoshi.png');
 
-    /* repeat || repeat-x||y || no-repeat*/
+    /* repeat || repeat-x||y || no-repeat */
     background-repeat: no-repeat;
 
     /* fixed || scroll */
     background-attachment: scroll;
 
     /* center ||  left || right || top || bottom */
-    /* Horizontal & Vertical (center center || left center || etc)*/
+    /* Horizontal & Vertical (center center || left center || etc) */
     background-position: top right;
 }
 
