@@ -4,4 +4,4 @@ Estes são os meus repositórios das aulas que tenho de HTML.
 * Projeto 1
 
 
-[Meu Perfil](phstefen.github.io)
+[Meu Perfil](http://phstefen.github.io/)
