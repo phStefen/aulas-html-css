@@ -1,0 +1,48 @@
+*{
+    background-color: rgb(229, 186, 253);
+    margin: 10px;
+    text-align: justify;
+    padding: 10px;
+
+    /*São em Prioridades, 1ª Arial, 2ª Halvetica e 3ª Sans-Serif.
+    Se não tiver Arial, tentará Helvetica, se não tiver Helvetica, usará uma fonte Genérica da Familía.*/
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.titulo{
+    color: rgb(52, 10, 80);
+    font-size: normal;
+    background-color: rgb(188, 121, 255);
+}
+
+div{
+    font-size: 18px;
+}
+
+.texto{
+    /*  px -> Tamanho Fixo
+        % -> Tamanho Relativo Padrão dos Browsers.
+                ex: 100% = 16px & 200% = 32px. Pois o Padrão é 16px
+        em -> Tamanho Relativo em relação ao Conteiner Pai
+                ex: 1em = 18px (tamanho Padrão de fonte do Div (Pai))*/
+    font-size: 1em;
+}
+
+.negrito{
+    /* normal, bold, bolder, 100-900 */
+    font-weight: bold;
+}
+
+.italico{
+    font-style: italic;
+}
+
+.decoration{
+    /* underline, ovweline , line-through*/
+    text-decoration: underline;
+}
+
+.normal{
+    /* Todos os atributos de uma vez */
+    font: normal 16px Arial, Helvetica, sans-serif;
+}
