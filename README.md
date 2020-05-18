@@ -7,7 +7,7 @@ Estes são os meus repositórios das aulas que tenho de HTML.
 * [Aula 03](https://github.com/phStefen/aulas-html/tree/master/projetos/html/aula-03) - Formulários
 * [Aula 04](https://github.com/phStefen/aulas-html/tree/master/projetos/html/aula-04) - Projeto de Site
 
-## CSS
-* [Aula 01](https://github.com/phStefen/aulas-html/tree/master/projetos/css/aula-01) - ???
+## CSS3
+* [Aula 01](https://github.com/phStefen/aulas-html/tree/master/projetos/css/aula-01) - Div e Span
 
 [Meu Perfil](http://phstefen.github.io/)
