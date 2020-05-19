@@ -1,0 +1,23 @@
+#principal{
+    border: 5px solid red;
+    background: green;
+}
+
+.conteudo{
+    background: cornsilk;
+    border: 1px solid rgb(255, 204, 0);
+    width: 140px;
+    height: 140px;
+    margin: 10px;
+
+    padding: 10px;
+
+    /* Left || Right || None */
+    float: right;
+}
+
+.clear{
+    /* Limpa o Fluxo do Float */
+    /* Left || Right || Both */
+    clear: both;
+}
