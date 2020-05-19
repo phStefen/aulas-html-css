@@ -1,5 +1,5 @@
 # Aulas de HTML5 e CSS3
-Estes são os meus repositórios das aulas que tenho de HTML.
+Estes são os repositórios das minhas aulas de HTML e CSS
 
 ## HTML5
 * [Aula 01](https://github.com/phStefen/aulas-html/tree/master/projetos/html/aula-01) - Tags
