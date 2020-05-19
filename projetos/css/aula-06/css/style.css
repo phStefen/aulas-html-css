@@ -1,0 +1,63 @@
+.conteudo{
+    border: 1px outset red;
+
+    /* O Padding adiciona um espaçamento INTERNO, e ele AUMENTA o tamanho da DIV */
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+
+    /* Sentido Horário: Top | Right | Bottom | Left */
+    padding: 20px 15px 10px 5px;
+
+    /* Padding de 20px em todos os lados */
+    padding: 20px;
+
+    /* 20px: Top && Bottom | 10px: Left && Right */
+    padding: 20px 10px;
+    
+    /* Graças ao Padding Left && Right, a Width = 300 + 10 + 10 (320) */
+    width: 300px;
+    
+    /* Margin adiciona um espaçamento EXTERNO */
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+
+    /* Sentido Horário: Top | Right | Bottom | Left */
+    margin: 20px 15px 10px 5px;
+
+    /* Padding de 20px em todos os lados */
+    margin: 20px;
+
+    /* 30px: Top && Bottom | 10px: Left && Right */
+    margin: 30px 10px;
+}
+
+.conteudo2{
+    border: 1px outset red;
+    width: 300px;
+    padding: 20px 10px;
+
+    /* 
+    Caso tenha dois Margin diferentes:
+
+    .conteudo{ padding-bottom: 30px;}
+    .conteudo2{ padding-top: 20px; }
+    
+    Eles não irão somar, somente o maior (30px) irá manter, pois eles se sobrepõem
+    */
+
+    margin: 20px 10px
+}
+
+#noticia{
+    background: rgb(182, 182, 255);
+    border: 1px outset rgb(1, 1, 70);
+    padding: 10px;
+}
+
+h2{
+    margin: 0px;
+}

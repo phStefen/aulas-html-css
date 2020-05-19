@@ -18,5 +18,6 @@ Estes são os repositórios das minhas aulas de HTML e CSS
 * [Aula 03](https://github.com/phStefen/aulas-html/tree/master/projetos/css/aula-03) - Fontes e Cores
 * [Aula 04](https://github.com/phStefen/aulas-html/tree/master/projetos/css/aula-04) - Fundo e Cores
 * [Aula 05](https://github.com/phStefen/aulas-html/tree/master/projetos/css/aula-05) - Projeto Site de uma Modelo
+* [Aula 06](https://github.com/phStefen/aulas-html/tree/master/projetos/css/aula-06) - Box Model
 
 [Meu Perfil](http://phstefen.github.io/)
