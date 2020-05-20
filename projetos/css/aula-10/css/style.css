@@ -1,0 +1,52 @@
+body{
+    background: #007fc7;
+    position: relative;
+}
+
+#container{
+    background: #FFF;
+    width: 800px;
+    margin: 10px auto;
+    padding: 10px;
+    position: relative;
+}
+
+p{
+    width: 300px;
+}
+
+/* position: static || relative || absolute */
+
+.relative{
+    padding: 5px;
+    border: 1px solid red;
+    position: relative;
+    /* top || right || bottom || left */
+    /* Ele move a quantidade de pixels em relação ao ponto inicial */
+    left: 80px;
+}
+
+.absolute{
+    padding: 5px;
+    border: 1px solid red;
+    background: #f2f2f2;
+    border-radius: 15px;
+
+    /* top || right || bottom || left */
+    /* Ele move a quantidade de pixels em relação ao ponto inicial do Pai*/
+    position: absolute;
+    right: 5px;
+    bottom: 5px;
+}
+
+.fixed{
+    padding: 5px;
+    border: 1px solid red;
+    background: #f2f2f2;
+
+    /* top || right || bottom || left */
+    /* Ele move a quantidade de pixels em relação ao ponto inicial da Janela*/
+    position: fixed;
+    top: 0px;
+    right: 0px;
+}
