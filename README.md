@@ -24,5 +24,6 @@ Estes são os repositórios das minhas aulas de HTML e CSS
 * [Aula 06](https://github.com/phStefen/aulas-html/tree/master/projetos/css/aula-06) - Box Model
 * [Aula 07](https://github.com/phStefen/aulas-html/tree/master/projetos/css/aula-07) - Elementos Flutuantes
 * [Aula 08](https://github.com/phStefen/aulas-html/tree/master/projetos/css/aula-08) - Elementos Flutuantes na Prática
+* [Aula 09](https://github.com/phStefen/aulas-html/tree/master/projetos/css/aula-09) - Elementos Block, InLine e InLine-Block
 
 [Meu Perfil](http://phstefen.github.io/)

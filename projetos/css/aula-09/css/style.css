@@ -1,0 +1,37 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 10px;
+}
+
+.borda{
+    border: 1px solid black;
+    font-size: 16px;
+    padding: 10px;
+}
+
+.inline{
+    border: 1px solid black;
+    font-size: 16px;
+    padding: 10px;
+
+    
+    display: inline;
+}
+
+.block{
+    border: 1px solid black;
+    font-size: 16px;
+    padding: 10px;
+
+    
+    display: block;
+}
+
+.inline-block{
+    border: 1px solid black;
+    font-size: 16px;
+    padding: 10px;
+
+    
+    display: inline-block;
+}
