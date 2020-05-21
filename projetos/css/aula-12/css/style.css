@@ -1,0 +1,22 @@
+a{
+    padding: 5px 10px;
+    text-decoration: none;
+}
+
+
+/* Configurar o Estado Padrão e o Visitado*/
+a:link, a:visited{
+    background: whitesmoke;
+    color: #b9c941;
+}
+
+/* Configurar o Estado de Mouse em Cima*/
+a:hover{
+    color: #FFF;
+    background: #6d790f;
+}
+
+/* Configurar o Estado Ativos (quando clicado)*/
+a:active{
+    background: #e4f371;
+}
