@@ -14,7 +14,6 @@ Estes são os repositórios das minhas aulas de HTML e CSS
 
 ## CSS3
 
-<img align="right" src="img/css.png" width="130">
 
 * [Aula 01](https://github.com/phStefen/aulas-html/tree/master/projetos/css/aula-01) - Div e Span
 * [Aula 02](https://github.com/phStefen/aulas-html/tree/master/projetos/css/aula-02) - Bordas
@@ -26,5 +25,8 @@ Estes são os repositórios das minhas aulas de HTML e CSS
 * [Aula 08](https://github.com/phStefen/aulas-html/tree/master/projetos/css/aula-08) - Elementos Flutuantes na Prática
 * [Aula 09](https://github.com/phStefen/aulas-html/tree/master/projetos/css/aula-09) - Elementos Block, InLine e InLine-Block
 * [Aula 10](https://github.com/phStefen/aulas-html/tree/master/projetos/css/aula-10) - Posicionamentos
+* [Aula 11](https://github.com/phStefen/aulas-html/tree/master/projetos/css/aula-11) - Sobreposição de Elementos
+
+<img align="right" src="img/css.png" width="130">
 
 [Meu Perfil](http://phstefen.github.io/)
