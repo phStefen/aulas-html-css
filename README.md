@@ -28,5 +28,6 @@ Estes são os repositórios das minhas aulas de HTML e CSS
 * [Aula 10](https://github.com/phStefen/aulas-html/tree/master/projetos/css/aula-10) - Posicionamentos
 * [Aula 11](https://github.com/phStefen/aulas-html/tree/master/projetos/css/aula-11) - Sobreposição de Elementos
 * [Aula 12](https://github.com/phStefen/aulas-html/tree/master/projetos/css/aula-12) - Aula sobre Formatação de Links
+* [Aula 13](https://github.com/phStefen/aulas-html/tree/master/projetos/css/aula-13) - Projeto TecBlog
 
 [Meu Perfil](http://phstefen.github.io/)
