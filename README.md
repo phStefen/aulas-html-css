@@ -38,5 +38,6 @@ Estes são os repositórios das minhas aulas de HTML e CSS
 <img align="right" src="img/css.png" width="130">
 
 * [Aula 01](https://github.com/phStefen/aulas-html-css/tree/master/projetos/css-avancado/aula-01) - Seletores
+* [Aula 02](https://github.com/phStefen/aulas-html-css/tree/master/projetos/css-avancado/aula-02) - Heranças
 
 [Meu Perfil](http://phstefen.github.io/)

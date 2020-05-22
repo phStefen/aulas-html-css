@@ -1,0 +1,39 @@
+/* Repare que nem Body, e nem Background são herdados */
+body{
+    font-family: 'Trebuchet MS', sans-serif;
+    
+    /*Não Herda*/
+    border: 7px outset rebeccapurple;
+    background-color: chocolate;
+}
+
+div{
+    border: 10px outset maroon;
+    background-color: whitesmoke;
+}
+
+
+/* Sempre é o Último a ser Aplicado*/
+p{
+    color: red;
+}
+
+p{
+    color: black;
+}
+
+
+/* !important burla a regra do Último é o aplicado */
+.p{
+    color: red !important;
+}
+
+.p{
+    color: black;
+}
+
+/* 
+Especificidade 
+Ordem:
+id > class > elemento 
+*/
