@@ -1,3 +1,7 @@
+body{
+    font-family: 'Trebuchet MS', sans-serif;
+}
+
 ul{
     margin: 0;
     padding:0;
@@ -5,7 +9,6 @@ ul{
 }
 
 ul a{
-    font-family: 'Trebuchet MS', sans-serif;
     width: 200px;
     height: 40px;
     display: block;
@@ -13,11 +16,23 @@ ul a{
     text-decoration: none;
     text-indent: 40px;
     line-height: 40px;
-    background: url(../img/menu.png) no-repeat left bottom;
+    background: #f7b600 url(../img/menu.png) no-repeat left bottom;
 }
 
 ul a:hover{
     color: white;
     font-weight: bold;
     background-position: right bottom;
+    background-color: #f99200;
+}
+
+#home .home a, 
+#sobre .sobre a, 
+#servicos .servicos a, 
+#noticias .noticias a, 
+#contato .contato a{
+    color: white;
+    font-weight: bold;
+    background-position: right bottom;
+    background-color: #f99200;
 }
