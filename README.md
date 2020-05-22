@@ -39,5 +39,6 @@ Estes são os repositórios das minhas aulas de HTML e CSS
 
 * [Aula 01](https://github.com/phStefen/aulas-html-css/tree/master/projetos/css-avancado/aula-01) - Seletores
 * [Aula 02](https://github.com/phStefen/aulas-html-css/tree/master/projetos/css-avancado/aula-02) - Heranças
+* [Aula 03](https://github.com/phStefen/aulas-html-css/tree/master/projetos/css-avancado/aula-03) - Navegação Lateral
 
 [Meu Perfil](http://phstefen.github.io/)
