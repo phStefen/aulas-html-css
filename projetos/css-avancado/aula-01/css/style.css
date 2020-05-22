@@ -1,0 +1,78 @@
+/* Seletor Universal */
+*{
+    border: 1px solid red;
+}
+
+/* Seletor de Texto */
+h1{
+    color: green;
+}
+
+/* Seletor de Classe */
+/* Todos que possuem a classe roxo */
+.roxo{
+    color: purple
+}
+
+/* Todos os Parágrafos que possuem a classe azul */
+p.azul{
+    color: blue;
+}
+p.laranja{
+    color: orange;
+}
+
+/* Seletor de ID */
+#cabecalho{
+    border: 5px outset paleturquoise ;
+}
+
+/* Seletor de Filho */
+/* Seleciona todos os Links filhos de uma Lista (no exemplo) */
+li>a:link, li>a:visited{
+    text-decoration: none;
+    padding: 0px 10px;
+    color: seagreen;
+}
+
+li>a:hover{
+    color: white;
+    background-color: seagreen;
+}
+
+li>span>a:link, li>span>a:visited{
+    text-decoration: none;
+    padding: 0px 10px;
+    color: slateblue;
+}
+
+li>span>a:hover{
+    color: white;
+    background-color: slateblue;
+}
+
+/* Seletor de Descendente */
+/* Qualquer Link dentro de um Parágrafo, mesmo que tenha outros elementos entre eles */
+/* Neste exemplo, temos um <p><span><a></span></p>, e o <a> é afetado */
+p a:link, p a:visited{
+    text-decoration: none;
+    padding: 0px 12px;
+    color: tomato;
+}
+p a:hover{
+    color: white;
+    background-color: tomato;
+}
+
+/* Seletor de Irmão Adjacente */
+/* Seleciona somente o primeiro <p> depois de qualquer <h1>*/
+h1+p{
+    font-weight: bold;
+    border: 1px solid blue;
+}
+
+/* Seletor Irmão Geral */
+/* Seleciona todos <span> depois de qualquer <h1>*/
+h1~span{
+    color: pink;
+}
