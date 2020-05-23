@@ -43,5 +43,6 @@ Estes são os repositórios das minhas aulas de HTML e CSS
 * [Aula 04](https://github.com/phStefen/aulas-html-css/tree/master/projetos/css-avancado/aula-04) - Navegação Horizontal
 * [Aula 05](https://github.com/phStefen/aulas-html-css/tree/master/projetos/css-avancado/aula-05) - Navegação de Abas
 * [Aula 06](https://github.com/phStefen/aulas-html-css/tree/master/projetos/css-avancado/aula-06) - Layout Fixo
+* [Aula 07](https://github.com/phStefen/aulas-html-css/tree/master/projetos/css-avancado/aula-07) - Layout Líquido
 
 [Meu Perfil](http://phstefen.github.io/)
