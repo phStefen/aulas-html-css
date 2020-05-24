@@ -1,0 +1,44 @@
+body{
+    font-family: 'Trebuchet MS', Helvetica, sans-serif;
+    background: #f2f2f2;
+}
+
+table{
+    width: 600px;
+    border-collapse: collapse;
+}
+
+th,
+td{
+    padding: 7px;
+    border-left: 3px solid #961742;
+    border-right: 3px solid #961742;
+}
+
+th{
+    text-transform: uppercase;
+    text-align: left;
+    font-size: .9em;
+    letter-spacing: .1em;
+    background-color: #1E001B;
+    color: white;
+}
+
+tbody{
+    background-color: #DB86C1;
+    color: white;
+    font-weight: bold;
+}
+
+tbody.alternado{
+    background-color: #9E3D7B;
+}
+
+td.numeros{
+    text-align: right;
+}
+
+tbody:hover{
+    background-color: #961742;
+    color: #1E001B;
+}
