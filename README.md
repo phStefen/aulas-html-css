@@ -47,5 +47,6 @@ Estes são os repositórios das minhas aulas de HTML e CSS
 * [Aula 08](https://github.com/phStefen/aulas-html-css/tree/master/projetos/css-avancado/aula-08) - Imagens Líquidas
 * [Aula 09](https://github.com/phStefen/aulas-html-css/tree/master/projetos/css-avancado/aula-09) - Colunas Falsas
 * [Aula 10](https://github.com/phStefen/aulas-html-css/tree/master/projetos/css-avancado/aula-10) - Estilizando Tabelas
+* [Aula 11](https://github.com/phStefen/aulas-html-css/tree/master/projetos/css-avancado/aula-11) - Estilizando Formulários
 
 [Meu Perfil](http://phstefen.github.io/)
