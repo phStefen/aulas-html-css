@@ -49,5 +49,6 @@ Estes são os repositórios das minhas aulas de HTML e CSS
 * [Aula 10](https://github.com/phStefen/aulas-html-css/tree/master/projetos/css-avancado/aula-10) - Estilizando Tabelas
 * [Aula 11](https://github.com/phStefen/aulas-html-css/tree/master/projetos/css-avancado/aula-11) - Estilizando Formulários
 * [Aula 12](https://github.com/phStefen/aulas-html-css/tree/master/projetos/css-avancado/aula-12) - Formulário de Login
+* [Aula 13](https://github.com/phStefen/aulas-html-css/tree/master/projetos/css-avancado/aula-13) - Arredondamentos com Imagens
 
 [Meu Perfil](http://phstefen.github.io/)
