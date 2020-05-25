@@ -1,0 +1,73 @@
+/* Geral */
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Trebuchet MS', Helvetica, sans-serif;
+    background: #fff url(../img/fundo.png) repeat-x;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+#interface{
+    width: 750px;
+    margin: 0 auto;
+}
+
+/* Topo */
+header{
+    height: 150px;
+    padding-top: 25px;
+    background: url(../img/detalhe-topo.png) no-repeat right top;
+}
+
+header ul{
+    margin-top: 30px;
+    background: #b10333;
+    float: left;
+}
+
+header li{
+    float: left;
+}
+
+header a{
+    font-size: 0.9em;
+    display: block;
+    padding: 0.5em 1.5em;
+    line-height: 2.1em;
+    text-decoration: none;
+    color: white;
+    background: url(../img/divisor.png) no-repeat right center;
+}
+
+header .ultimo a{
+    background: none;
+}
+
+header a:hover{
+    color: #69001d;
+    background-color: #de003e;
+}
+
+.brasil #brasil,
+.internacional #internacional,
+.economia #economia,
+.saude #saude,
+.ciencia #ciencia,
+.fotos #fotos,
+.home #home{
+    color: white;
+    background-color: #de003e;
+    cursor: default;
+}
+
+/* Conteúdo */
+article{
+
+}
