@@ -3,7 +3,6 @@
     margin: 0;
     padding: 0;
 }
-
 body{
     font-family: 'Trebuchet MS', Helvetica, sans-serif;
     background: #fff url(../img/fundo.png) repeat-x;
@@ -13,7 +12,6 @@ ul{
     margin: 0;
     padding: 0;
 }
-
 #interface{
     width: 750px;
     margin: 0 auto;
@@ -25,17 +23,14 @@ header{
     padding-top: 25px;
     background: url(../img/detalhe-topo.png) no-repeat right top;
 }
-
 header ul{
     margin-top: 30px;
     background: #b10333;
     float: left;
 }
-
 header li{
     float: left;
 }
-
 header a{
     font-size: 0.9em;
     display: block;
@@ -45,16 +40,13 @@ header a{
     color: white;
     background: url(../img/divisor.png) no-repeat right center;
 }
-
 header .ultimo a{
     background: none;
 }
-
 header a:hover{
     color: #69001d;
     background-color: #de003e;
 }
-
 .brasil #brasil,
 .internacional #internacional,
 .economia #economia,
@@ -67,7 +59,64 @@ header a:hover{
     cursor: default;
 }
 
-/* Conteúdo */
-article{
 
+/* Colunas */
+#primario{
+    width: 270px;
+    margin: 0 0 20px 195px;
+    float: left;
+}
+#duas-colunas #primario{
+    width: 555px;
+}
+#uma-coluna #primario{
+    width: 750px;
+    margin-bottom: 0 0 20px 0;
+}
+
+/* Conteúdo */
+#conteudo{
+    margin-top: 60px;
+    background: #f5f5f5;
+}
+#secundario{
+    width: 270px;
+    margin: 0 0 20px 15px;
+    float: left;
+}
+
+/* Barra Lateral */
+#lateral{
+    width: 180px;
+    margin: 0 0 20px -750px;
+    float: left;
+}
+
+/* Caixa */
+.caixa{
+    margin: 10px 0;
+    padding: 5px;
+    background: #f3f3f3 url(../img/fundo-caixa.png);
+}
+
+.caixa h2{
+    font-size: 1em;
+    padding: 5px;
+    background: #294c71;
+    color: white;
+}
+
+.caixa-conteudo{
+    margin-top: 5px;
+    background: white;
+    padding: 5px;
+}
+
+/* Rodapé */
+footer{
+    background: #294c71;
+    padding: 20px;
+    text-align: center;
+    color: white;
+    clear: both;
 }
