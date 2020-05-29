@@ -71,7 +71,7 @@ header a:hover{
 }
 #uma-coluna #primario{
     width: 750px;
-    margin-bottom: 0 0 20px 0;
+    margin: 0 0 20px 0;
 }
 
 /* Conteúdo */
@@ -79,10 +79,66 @@ header a:hover{
     margin-top: 60px;
     background: #f5f5f5;
 }
+.destaque img{
+    width: 98%;
+    border: 3px solid #b10333;
+}
+.entrevista img{
+    width: 98%;
+    border: 3px solid #de003e;
+}
+#conteudo h3{
+    text-transform: uppercase;
+    display: inline;
+    font-size: 0.8em;
+    padding: 3px;
+}
+#conteudo h3.destaque{
+    background-color: #b10333;
+    color: white;
+}
+#conteudo h3.entrevista{
+    background-color: #de003e;
+}
+#conteudo p{
+    text-align: justify;
+}
+#conteudo a{
+    color: #b10333;
+}
 #secundario{
     width: 270px;
     margin: 0 0 20px 15px;
     float: left;
+}
+
+/* Listas */
+#lista-noticias li{
+    padding: 2px;
+    border-bottom: 1px solid #ccc;
+    height: 62px;
+}
+#lista-noticias li a{
+    text-decoration: none;
+}
+#lista-noticias li:hover{
+    background-color: #eee;
+}
+#lista-noticias li a img{
+    width: 80px;
+    float: left;
+    margin: 5px;
+}
+#lista-noticias li a h3{
+    color: #3e7ab9;
+    font-size: .9em;
+    font-weight: bold;
+    padding: 0;
+}
+#lista-noticias li a p{
+    font-size: .7em;
+    text-align: justify;
+    color: black;
 }
 
 /* Barra Lateral */
@@ -91,6 +147,38 @@ header a:hover{
     margin: 0 0 20px -750px;
     float: left;
 }
+#lateral ul a{
+    font-size: .9em;
+    padding: 3px;
+    display: block;
+    line-height: 30px;
+    color: black;
+    text-decoration: none;
+    border-bottom: 1px solid #f3f3f3;
+}
+#lateral ul a:hover{
+    color: #a1a1a1;
+    background: #f9f9f9 url(../img/marcador.png) no-repeat left center;
+    padding-left: 20px;
+}
+#lateral label{
+    display: block;
+    cursor: pointer;
+}
+#lateral input{
+    font-size: 0.9em;
+    background: white;
+    width: 125px;
+    padding:5px;
+    border-style: solid;
+}
+#lateral input[type="submit"]{
+    margin-top: 10px;
+    width: 80px;
+    color: white;
+    background-color: #b10333;
+    border: 2px solid #870529;
+}
 
 /* Caixa */
 .caixa{
@@ -98,14 +186,12 @@ header a:hover{
     padding: 5px;
     background: #f3f3f3 url(../img/fundo-caixa.png);
 }
-
 .caixa h2{
     font-size: 1em;
     padding: 5px;
     background: #294c71;
     color: white;
 }
-
 .caixa-conteudo{
     margin-top: 5px;
     background: white;

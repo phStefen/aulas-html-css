@@ -3,11 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Notícias Cidade</title>
+    <title>Notícias Cidade - Fotos</title>
     <link rel="stylesheet" href="css/style.css">
 </head>
-<body class="fotos">
-    <div id="interface">
+<body class="fotos" id="uma-coluna">
+    <section id="interface">
+        <!-- Cabeçalho -->
         <header>
             <img src="img/logo.png" title="Notícias Cidade">
             <nav>
@@ -22,9 +23,68 @@
                 </ul>
             </nav>
         </header>
-        <article>
-            Conteúdo
-        </article>
-    </div>
+
+        <!-- Conteúdo -->
+        <div id="conteudo">
+
+            <!-- Primário -->
+            <section id="primario">
+                <div class="caixa">
+                    <h2>Destaque</h2>
+                    <div class="caixa-conteudo destaque">
+                        <h3 class="destaque">Nova Legislação</h3>
+                        <img src="img/taxi.jpg">
+                        <p>
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam sed, deserunt excepturi expedita asperiores vel debitis blanditiis, saepe commodi nobis officiis, laboriosam voluptatibus corporis.
+                        </p>
+                        <a href="">Leia mais...</a>
+                    </div>
+                </div>
+
+                <!-- Notícias -->
+                <div class="caixa">
+                    <h2>Mundo</h2>
+                    <div class="caixa-conteudo">
+                        <ul id="lista-noticias">
+                            <li>
+                                <a href="#">
+                                        <img src="img/tecnologia.jpg">
+                                        <h3>Novas Tecnologias</h3>
+                                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
+                                </a>
+                            </li>
+                            
+                            <li>
+                                <a href="#">
+                                        <img src="img/tecnologia.jpg">
+                                        <h3>Novas Tecnologias</h3>
+                                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
+                                </a>
+                            </li>
+    
+                            <li>
+                                <a href="#">
+                                        <img src="img/tecnologia.jpg">
+                                        <h3>Novas Tecnologias</h3>
+                                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
+                                </a>
+                            </li>
+                            
+                            <li>
+                                <a href="#">
+                                        <img src="img/tecnologia.jpg">
+                                        <h3>Novas Tecnologias</h3>
+                                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </section>
+    
+
+    <footer> &copy; Copyright 2020 phStefen</footer>
 </body>
 </html>
