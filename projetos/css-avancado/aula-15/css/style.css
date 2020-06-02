@@ -17,6 +17,12 @@ h2{
     padding: 5px 0;
 }
 
+p{
+    font-size: 1em;
+    text-align: justify;
+    margin-bottom: 10px;
+}
+
 body{
     font-family: Helvetica, "Trebuchet MS", sans-serif;
     background: #fff url(../img/bg.png);
@@ -127,30 +133,60 @@ header{
     width: 50%;
     background: url(../img/bg-area-principal.png) top left repeat-x;
     float: left;
+    padding:15px 0px;
 }
 
 #area-direita{
     width: 50%;
     background: url(../img/bg-area-lateral.png) top left repeat-x;
     float: right;
+    padding:45px 0px;
 }
 
 .conteudo{
-    padding:15px 0px;
     margin: 0 auto;
     width: 90%;
 }
 
-.conteudo p{
+/*Lista Direita*/
+
+/* Listas */
+#beneficios li{
+    padding: 8px;
+    border-bottom: 1px solid #f3efcb;
+    height: 6em;
+}
+
+#beneficios li:hover{
+    background-color: #f6f3d6;
+}
+
+#beneficios li a{
+    font-size: .8em;
+    color: black;
+    display: block;
     text-align: justify;
+}
+
+#beneficios li a img{
+    margin-right: 8px;
+    float: left;
+}
+
+#beneficios li a h3{
+    font-size: 1em;
+    font-weight: bold;
+    padding: 5px 0;
+    background: url(../img/ornamento.png) no-repeat center right;
+    color: #615b2d;
 }
 
 /*Rodapé*/
 footer{
     clear: both;
-    line-height: 50px;
+    padding:16px;
+    background: white url(../img/bg-rodape.png) repeat-x top;
     text-align: center;
     font-style: italic;
-    background-color: #6e672c;
-    color: #24220f;
+    color: #7d7640;
 }
