@@ -52,5 +52,6 @@ Estes são os repositórios das minhas aulas de HTML e CSS
 * [Aula 13](https://github.com/phStefen/aulas-html-css/tree/master/projetos/css-avancado/aula-13) - Arredondamentos com Imagens
 * [Aula 14](https://github.com/phStefen/aulas-html-css/tree/master/projetos/css-avancado/aula-14) - Projeto Cidade
 * [Aula 15](https://github.com/phStefen/aulas-html-css/tree/master/projetos/css-avancado/aula-15) - Projeto Hotel
+* [Aula 16](https://github.com/phStefen/aulas-html-css/tree/master/projetos/css-avancado/aula-16) - Parallax
 
 [Meu Perfil](http://phstefen.github.io/)
