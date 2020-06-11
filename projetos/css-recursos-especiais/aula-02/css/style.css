@@ -1,0 +1,36 @@
+#caixa{
+    background: #8859f5;
+    margin: 30px;
+
+    /* Somando com o Padding, o total ficaria 400px */
+    width: 300px;
+    height: 300px;
+    padding: 50px;
+
+    /* Vários Tamanhos - Sentido Horário */
+    border-radius: 10px 50px 80px 100px;
+
+    /* Diagonais */
+    border-radius: 20px 100px;
+
+    /* Totalmente Redondo (Metade da Largura ou 50%) */
+    border-radius: 200px;
+}
+
+#caixa2{
+    background: #8859f5;
+    margin: 30px;
+    
+    /* Ao em vez do tamanho ficar 400, ele se manterá 300 */
+    width: 300px;
+    height: 300px;
+    padding: 50px;
+    box-sizing: border-box;
+
+    /* Totalmente Redondo (Metade da Largura ou 50%) */
+    border-radius: 150px;
+}
+
+img{
+    border-radius: 50%;
+}
