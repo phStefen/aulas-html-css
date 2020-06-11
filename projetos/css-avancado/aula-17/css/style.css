@@ -1,0 +1,39 @@
+@font-face{
+    font-family: "Bebas Neue";
+    src: url(../fonts/BebasNeue-Regular.woff);
+}
+
+@font-face{
+    font-family: "Ancient Medium";
+    src: url(../fonts/Ancient-Medium.woff);
+}
+
+@font-face{
+    font-family: "Bring Hear";
+    src: url(../fonts/BringHeart.woff);
+}
+
+@font-face{
+    font-family: "Madelina Script";
+    src: url(../fonts/MadelinaScript.woff);
+}
+
+.bebas{
+    font-size: 6em;
+    font-family: "Bebas Neue";
+}
+
+.ancient{
+    font-size: 6em;
+    font-family: "Ancient Medium";
+}
+
+.bring{
+    font-size: 6em;
+    font-family: "Bring Heart";
+}
+
+.madelina{
+    font-size: 6em;
+    font-family: "Madelina Script";
+}
