@@ -31,8 +31,6 @@ Estes são os repositórios das minhas aulas de HTML e CSS
 * [Aula 13](https://github.com/phStefen/aulas-html-css/tree/master/projetos/css/aula-13) - Projeto TecBlog
 
 
-
-
 ## CSS3 - Intermediário & Avançado
 
 <img align="right" src="img/css.png" width="130">
@@ -54,5 +52,12 @@ Estes são os repositórios das minhas aulas de HTML e CSS
 * [Aula 15](https://github.com/phStefen/aulas-html-css/tree/master/projetos/css-avancado/aula-15) - Projeto Hotel
 * [Aula 16](https://github.com/phStefen/aulas-html-css/tree/master/projetos/css-avancado/aula-16) - Parallax
 * [Aula 17](https://github.com/phStefen/aulas-html-css/tree/master/projetos/css-avancado/aula-17) - Fontes Customizáveis
+
+
+## CSS3 - Recursos Especiais
+
+<img align="right" src="img/css.png" width="130">
+
+* [Aula 01](https://github.com/phStefen/aulas-html-css/tree/master/projetos/css-recursos-especiais/aula-01) - Normalize CSS
 
 [Meu Perfil](http://phstefen.github.io/)
