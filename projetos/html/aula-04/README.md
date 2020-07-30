@@ -1,4 +1,4 @@
-<img align="right" src="../../img/html.png" width="130"/>
+<img align="right" src="../../../img/html.png" width="130"/>
 
 # Aula 04
 
