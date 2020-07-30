@@ -1,10 +1,11 @@
+<img align="right" src="img/html.png" width="130">
+<img align="right" src="img/css.png" width="130">
+
 # Aulas de HTML5 e CSS3
 Estes são os repositórios das minhas aulas de HTML e CSS
 
 
 ## HTML5
-
-<img align="right" src="img/html.png" width="130">
 
 * [Aula 01](https://github.com/phStefen/aulas-html-css/tree/master/projetos/html/aula-01) - Tags
 * [Aula 02](https://github.com/phStefen/aulas-html-css/tree/master/projetos/html/aula-02) - Tabela
@@ -13,8 +14,6 @@ Estes são os repositórios das minhas aulas de HTML e CSS
 
 
 ## CSS3
-
-<img align="right" src="img/css.png" width="130">
 
 * [Aula 01](https://github.com/phStefen/aulas-html-css/tree/master/projetos/css/aula-01) - Div e Span
 * [Aula 02](https://github.com/phStefen/aulas-html-css/tree/master/projetos/css/aula-02) - Bordas
@@ -32,8 +31,6 @@ Estes são os repositórios das minhas aulas de HTML e CSS
 
 
 ## CSS3 - Intermediário & Avançado
-
-<img align="right" src="img/css.png" width="130">
 
 * [Aula 01](https://github.com/phStefen/aulas-html-css/tree/master/projetos/css-avancado/aula-01) - Seletores
 * [Aula 02](https://github.com/phStefen/aulas-html-css/tree/master/projetos/css-avancado/aula-02) - Heranças
@@ -55,8 +52,6 @@ Estes são os repositórios das minhas aulas de HTML e CSS
 
 
 ## CSS3 - Recursos Especiais
-
-<img align="right" src="img/css.png" width="130">
 
 * [Aula 01](https://github.com/phStefen/aulas-html-css/tree/master/projetos/css-recursos-especiais/aula-01) - Normalize CSS
 
