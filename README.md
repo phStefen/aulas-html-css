@@ -1,3 +1,5 @@
+### [Meu Perfil](http://phstefen.github.io/)
+
 <img align="right" src="img/htmlcss.png" width="130">
 
 # Aulas de HTML5 e CSS3
@@ -53,6 +55,3 @@ Estes são os repositórios das minhas aulas de HTML e CSS
 ## CSS3 - Recursos Especiais
 
 * [Aula 01 - Normalize CSS](https://github.com/phStefen/aulas-html-css/tree/master/projetos/css-recursos-especiais/aula-01)
-
-
-### [Meu Perfil](http://phstefen.github.io/)
