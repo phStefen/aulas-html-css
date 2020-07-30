@@ -1,5 +1,4 @@
-<img align="right" src="img/html.png" width="130">
-<img align="right" src="img/css.png" heigth="130">
+<img align="right" src="img/htmlcss.png" width="130">
 
 # Aulas de HTML5 e CSS3
 Estes são os repositórios das minhas aulas de HTML e CSS
