@@ -7,3 +7,5 @@
 - [X] Crie a página "index.html".
 - [X] Escreva um texto simples no topo da página contendo o nome da loja.
 - [X] Inclua na página um item "Atendimento" que será utilizado para entrar em contato com o atendimento da loja virtual.
+
+[Resultado](https://github.com/phStefen/aulas-html-css/blob/master/unicesumar/aula-01/index.html)
