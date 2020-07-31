@@ -5,7 +5,7 @@
 # Aulas de HTML5 e CSS3
 Estes são os repositórios das minhas aulas de HTML e CSS
 
-<img align="right" src="../img/udemy.png" width="60">
+<img align="left" src="../img/udemy.png" width="60">
 
 # Udemy
 
