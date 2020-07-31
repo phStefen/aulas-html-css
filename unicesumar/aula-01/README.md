@@ -1,6 +1,6 @@
-### [Meu Perfil](http://phstefen.github.io/) <img align="right" src="../../../img/unicesumar.png" width="30"/>
+### [Meu Perfil](http://phstefen.github.io/) <img align="right" src="../../img/unicesumar.png" width="30"/>
 
-<img align="right" src="../../../img/html.png" width="130"/>
+<img align="right" src="../../img/html.png" width="130"/>
 
 # Aula 01
 
