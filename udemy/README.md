@@ -1,6 +1,6 @@
-### [Meu Perfil](http://phstefen.github.io/)
+### [Meu Perfil](http://phstefen.github.io/) <img align="right" src="../img/htmlcss.png" width="130">
 
-<img align="right" src="../img/htmlcss.png" width="130"> <img align="left" src="../img/udemy.png" width="60"> 
+ <img align="left" src="../img/udemy.png" width="60"> 
 
 # Udemy
 
@@ -10,7 +10,6 @@
 * [Aula 02 - Tabela](https://github.com/phStefen/aulas-html-css/tree/master/udemy/html/aula-02)
 * [Aula 03 - Formulários](https://github.com/phStefen/aulas-html-css/tree/master/udemy/html/aula-03)
 * [Aula 04 - Projeto de Site](https://github.com/phStefen/aulas-html-css/tree/master/udemy/html/aula-04)
-
 
 ## CSS3
 
@@ -27,7 +26,6 @@
 * [Aula 11 - Sobreposição de Elementos](https://github.com/phStefen/aulas-html-css/tree/master/udemy/css/aula-11)
 * [Aula 12 - Aula sobre Formatação de Links](https://github.com/phStefen/aulas-html-css/tree/master/udemy/css/aula-12)
 * [Aula 13 - Projeto TecBlog](https://github.com/phStefen/aulas-html-css/tree/master/udemy/css/aula-13)
-
 
 ## CSS3 - Intermediário & Avançado
 
@@ -48,7 +46,6 @@
 * [Aula 15 - Projeto Hotel](https://github.com/phStefen/aulas-html-css/tree/master/udemy/css-avancado/aula-15)
 * [Aula 16 - Parallax](https://github.com/phStefen/aulas-html-css/tree/master/udemy/css-avancado/aula-16)
 * [Aula 17 - Fontes Customizáveis](https://github.com/phStefen/aulas-html-css/tree/master/udemy/css-avancado/aula-17)
-
 
 ## CSS3 - Recursos Especiais
 
