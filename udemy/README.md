@@ -1,6 +1,6 @@
 ### [Meu Perfil](http://phstefen.github.io/)
 
-<img align="left" src="../img/udemy.png" width="60"> 
+<img align="left" src="../img/udemy.png" width="130"> 
 
 # Udemy
 
