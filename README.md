@@ -6,7 +6,7 @@
 Estes são os repositórios das minhas aulas de HTML e CSS
 
 
-[Udemy <img src="img/udemy.png" width="20">](https://github.com/phStefen/aulas-html-css/tree/master/udemy/)
+[<img src="img/udemy.png" heigth="100%"> Udemy](https://github.com/phStefen/aulas-html-css/tree/master/udemy/)
 
 <img align="left" src="img/unicesumar.png" width="20">
 
