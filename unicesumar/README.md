@@ -1,9 +1,4 @@
-### [Meu Perfil](http://phstefen.github.io/)
-
-<img align="right" src="../img/htmlcss.png" width="130">
-
-# Aulas de HTML5 e CSS3
-Estes são os repositórios das minhas aulas de HTML e CSS
+### [Meu Perfil <img align="right" src="../img/htmlcss.png" width="130">](http://phstefen.github.io/)
 
 <img align="left" src="../img/unicesumar.png" width="60">
 
