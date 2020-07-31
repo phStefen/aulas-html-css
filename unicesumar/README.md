@@ -1,5 +1,6 @@
-### [Meu Perfil <img align="right" src="../img/htmlcss.png" width="130">](http://phstefen.github.io/)
+### [Meu Perfil ](http://phstefen.github.io/) <img align="right" src="../img/unicesumar.png" width="30">
 
-<img align="left" src="../img/unicesumar.png" width="60">
+<img align="right" src="img/htmlcss.png" width="130">
 
-# Unicesumar
+# Aulas de HTML5 e CSS3
+Estes são os repositórios das minhas aulas de HTML e CSS pela Unicesumar
