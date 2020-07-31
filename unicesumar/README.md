@@ -7,4 +7,4 @@ Estes são os repositórios das minhas aulas de HTML e CSS pela Unicesumar
 
 ## HTML5
 
-* [Aula 01 - Página Básica](https://github.com/phStefen/aulas-html-css/tree/master/projetos/aula-01)
+* [Aula 01 - Página Básica](https://github.com/phStefen/aulas-html-css/tree/master/unicesumar/aula-01)
