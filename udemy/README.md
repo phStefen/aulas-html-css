@@ -1,10 +1,8 @@
 ### [Meu Perfil](http://phstefen.github.io/)
 
-<img align="left" src="../img/udemy.png" width="130"> 
+<img align="left" src="../img/udemy.png" width="130"> <img align="right" src="../img/htmlcss.png" width="130">
 
 # Udemy
-
-<img align="right" src="../img/htmlcss.png" width="130">
 
 ## HTML5
 
