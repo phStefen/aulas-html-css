@@ -5,7 +5,6 @@
 # Aulas de HTML5 e CSS3
 Estes são os repositórios das minhas aulas de HTML e CSS
 
-
 <img align="right" src="img/udemy.png" width="130">
 
 # Udemy
@@ -59,12 +58,3 @@ Estes são os repositórios das minhas aulas de HTML e CSS
 ## CSS3 - Recursos Especiais
 
 * [Aula 01 - Normalize CSS](https://github.com/phStefen/aulas-html-css/tree/master/udemy/css-recursos-especiais/aula-01)
-
-
-<img align="right" src="img/unicesumar.png" width="130">
-
-# Unicesumar
-
-## HTML5
-
-* [Aula 01](https://github.com/phStefen/aulas-html-css/tree/master/unicesumar/html/aula-01)
