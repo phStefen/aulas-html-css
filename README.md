@@ -2,7 +2,7 @@
 
 <img align="right" src="img/htmlcss.png" width="130">
 
-# Aulas de HTML5 e CSS3
+# Aulas de *HTML5* e *CSS3*
 Estes são os repositórios das minhas aulas de HTML e CSS
 
 # [<img align="bottom" src="img/udemy.png" width="30"> Udemy](https://github.com/phStefen/aulas-html-css/tree/master/udemy/)
