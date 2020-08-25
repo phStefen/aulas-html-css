@@ -4,6 +4,6 @@
 
 # Aula 04
 
-- [X] Desenvolva um Protótipo de um site para AEP
+- [X] Utilize a tag de links para acessar várias páginas
 
-[Resultado](https://github.com/phStefen/aulas-html-css/blob/master/unicesumar/aula-02/index.html)
+[Resultado](https://github.com/phStefen/aulas-html-css/blob/master/unicesumar/aula-04/index.html)
