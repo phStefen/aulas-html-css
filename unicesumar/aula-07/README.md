@@ -4,7 +4,7 @@
 
 # Aula 07
 
-- [X] Desenvolva uma página HTML com uma imagem de fundo e adicione elementos que possuam com cor de fundo. Teste as combinações e envie o código HTML e CSS que obtiver o melhor resultado.
+- [X] Desenvolva uma página HTML com 6 elementos HTML diferentes (no mínimo). Coloque bordas diferentes en cada elemento, de modo que fique visível a distribuição dos elementos na página.
 
-[Resultado](https://github.com/phStefen/aulas-html-css/blob/master/unicesumar/aula-07/index.html)
+[Resultado](https://github.com/phStefen/aulas-html-css/blob/master/unicesumar/aula-08/index.html)
 

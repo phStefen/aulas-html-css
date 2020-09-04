@@ -13,3 +13,5 @@ Estes são os repositórios das minhas aulas de HTML e CSS pela Unicesumar
 * [Aula 04 - Links](https://github.com/phStefen/aulas-html-css/tree/master/unicesumar/aula-04)
 * [Aula 05 - Menus com CSS](https://github.com/phStefen/aulas-html-css/tree/master/unicesumar/aula-05)
 * [Aula 06 - Bordas](https://github.com/phStefen/aulas-html-css/tree/master/unicesumar/aula-06)
+* [Aula 07 - Backgrounds](https://github.com/phStefen/aulas-html-css/tree/master/unicesumar/aula-07)
+* [Aula 08 - Estilo de Bordas](https://github.com/phStefen/aulas-html-css/tree/master/unicesumar/aula-08)
