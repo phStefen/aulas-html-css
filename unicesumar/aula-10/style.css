@@ -1,0 +1,15 @@
+body{
+    background-color: #F8F8FF;
+}
+
+div{
+    border-style: dotted;
+}
+
+.perfil{
+    width: 33.3%;
+}
+
+.foto{
+    position: relative;
+}
