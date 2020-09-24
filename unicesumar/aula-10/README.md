@@ -2,9 +2,9 @@
 
 <img align="right" src="../../img/html.png" width="130"/>
 
-# Aula 09
+# Aula 10
 
-- [X] Crie uma página WEB de formulário, para cadastro de clientes. A página deve conter entradas de texto, raddio button,checkbox e DropDown. Acrescente estilo (CSS) a essa página; ENVIE o código HTML e CSS gerados.
+- [X] Currículo
 
-[Resultado](https://github.com/phStefen/aulas-html-css/blob/master/unicesumar/aula-09/index.html)
+[Resultado](https://github.com/phStefen/aulas-html-css/blob/master/unicesumar/aula-10/index.html)
 

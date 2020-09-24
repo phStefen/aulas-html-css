@@ -1,5 +1,6 @@
 body{
     background-color: #F8F8FF;
+    margin: 8px;
 }
 
 div{
@@ -12,4 +13,20 @@ div{
 
 .foto{
     position: relative;
+    box-sizing: inherit;
+    width: 33.3%;
+}
+
+.nome{
+    padding: 0.01em 16px;
+    position: absolute;
+    box-sizing: inherit;
+    display: block;
+}
+
+.profissional{
+    width: 66.6%;
+    display: block;
+    box-sizing: inherit;
+    float: right;
 }
