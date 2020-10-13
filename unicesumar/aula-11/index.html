@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Aula 11</title>
+    <style>
+        *{
+            font-family: 'Trebuchet MS', Arial, sans-serif;
+            text-align: justify;
+            margin: 15px;
+        }
+    </style>
+</head>
+<body>
+    <h2>InnerHTML</h2>
+    <a href="#case1">1º Exemplo</a>
+    <a href="#case1">2º Exemplo</a>
+
+    <hr>
+
+    <section id="case1">
+        <h2>Primeiro JavaScript</h2>
+        <button 
+            type="button" 
+            onmouseover="document.getElementById('demo').innerHTML = Date()" 
+            onmouseout="document.getElementById('demo').innerHTML=''">
+            Fique aqui para mostrar a data e a hora!!
+        </button>
+        <p id="demo"></p>
+    </section>
+    
+    <section id="case2">
+        <h2>Outros casos de innerHTML</h2>
+        <p id="inP">
+            A Propriedade innerHTML Altera ou Retorna o conteúdo de um Elemento HTML
+        </p>
+        <button type="button"onclick="myFunction()">
+            Copiar o Parágrafo de Cima
+        </button>
+        <p id="outP"></p>
+    </section>
+
+	<script type="text/javascript">
+		function myFunction(){
+			document.getElementById("outP").innerHTML = document.getElementById("inP").innerHTML;
+		}
+	</script>
+</body>
+</html>
