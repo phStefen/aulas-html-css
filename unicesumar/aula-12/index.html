@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Aula 12</title>
+    <style>
+        *{
+            font-family: 'Trebuchet MS', Arial, sans-serif;
+            text-align: justify;
+            margin: 15px;
+        }
+    </style>
+</head>
+<body>
+    <h2>InnerHTML</h2>
+    <a href="#case1">1º Exemplo</a>
+    <a href="#case2">2º Exemplo</a>
+    <br>
+    <h2>O Que o Javascript pode fazer?</h2>
+    <a href="#case3">Alterar Atributos HTML</a>
+    <a href="#case4">Alterar Estilos CSS</a>
+
+    <hr>
+
+    <section id="case1">
+        <h2>Primeiro JavaScript</h2>
+        <button 
+            type="button" 
+            onmouseover="document.getElementById('demo').innerHTML = Date()" 
+            onmouseout="document.getElementById('demo').innerHTML=''">
+            Fique aqui para mostrar a data e a hora!!
+        </button>
+        <p id="demo"></p>
+    </section>
+    
+    <section id="case2">
+        <h2>Outros casos de innerHTML</h2>
+        <p id="inP">
+            A Propriedade innerHTML Altera ou Retorna o conteúdo de um Elemento HTML
+        </p>
+        <button type="button"onclick="myFunction()">
+            Copiar o Parágrafo de Cima
+        </button>
+        <p id="outP"></p>
+    </section>
+
+    <section id="case3">
+        <p>Nesse caso o JS altera o atributo <i>src</i> de <i>img</i></p>
+        <button 
+            onclick="
+                document.getElementById('myImage').src='img/pic_bulbon.gif'">
+                Ascender a Luz
+        </button>
+        <img id="myImage" src="img/pic_bulboff.gif" style="width: 100px;">
+        <button 
+            onclick="
+                document.getElementById('myImage').src='img/pic_bulboff.gif'">
+                Apagar a Luz
+        </button>
+    </section>
+
+    <section id="case4">
+        <p id="elem">JS pode alterar o estilo do Elemento</p>
+        <button 
+            onclick="document.getElementById('elem').style.fontSize='35px'">
+            Mudar Tamanho
+        </button>
+
+        <p id="hs">JS pode Ocultar Elementos</p>
+        <p></p>
+        <button 
+            onclick="document.getElementById('hs').style.display='none'">
+            Ocultar Parágrafo
+        </button>
+        <button 
+            onclick="document.getElementById('hs').style.display='block'">
+            Exibir Parágrafo
+        </button>
+    </section>
+
+	<script type="text/javascript">
+		function myFunction(){
+			document.getElementById("outP").innerHTML = document.getElementById("inP").innerHTML;
+		}
+	</script>
+</body>
+</html>
