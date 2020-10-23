@@ -18,6 +18,8 @@
     <h2>O Que o Javascript pode fazer?</h2>
     <a href="#case3">Alterar Atributos HTML</a>
     <a href="#case4">Alterar Estilos CSS</a>
+    <a href="#case5">Sobrescrever HTML</a>
+    <a href="#case6">Mandar Mensagens</a>
 
     <hr>
 
@@ -77,7 +79,21 @@
         </button>
     </section>
 
-	<script type="text/javascript">
+    <section id="case5">
+        <h2>Recarregar HTML</h2>
+        <p>
+            Utilizando o Método <i>document.write()</i> o HTML é totalmente sobrescrito.
+        </p>
+        <button onclick="document.write(1+1);">Exibir "2"</button>
+    </section>
+
+    <section id="case6">
+        <p>Você pode abrir uma janela de Alerta para exibir mensagens</p>
+        <button onclick="window.alert('Boa Noite')">Dizer "Boa Noite"</button>
+        <p>Você também pode imprimir em Consoles! (abra o console para ver a mensagem)</p>
+    </section>
+
+    <script type="text/javascript">
 		function myFunction(){
 			document.getElementById("outP").innerHTML = document.getElementById("inP").innerHTML;
 		}
