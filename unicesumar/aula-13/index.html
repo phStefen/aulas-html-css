@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Aula 13</title>
+    <style>
+        *{
+            font-family: 'Trebuchet MS', Arial, sans-serif;
+        }
+
+        body{
+            margin: 15px;
+        }
+    </style>
+</head>
+<body>
+   <h1> &lt;Conversor de Medida&gt;</h1>
+   <p>Digite um Valor para ser Convertido.</p>
+   <label for="polegadas">Valor:</label>
+    <input 
+        type="number" 
+        id="polegadas" 
+        placeholder="Valor a ser Convertido"
+        oninput="converter(this.value)"
+        onchange="converter(this.value)">
+
+    <h2>Polegada para Centímetros</h2>
+    <p>
+        <b><span id="inPol">0cm</span></b> equivale a: <b><span id="outPol">0″</span></b>
+    </p>
+    <h2>Quilômetros para Metros</h2>
+    <p>
+        <b><span id="inKm">0km</span></b> equivale a: <b><span id="outKm">0m</span></b>
+    </p>
+    <h2>Quilôgramas para Gramas</h2>
+    <p>
+        <b><span id="inKg">0kg</span></b> equivale a: <b><span id="outKg">0g</span></b>
+    </p>
+
+    <script type="text/javascript">
+		function converter(val){
+            document.getElementById('outPol').innerHTML = (val*2.54) + '″';
+            document.getElementById('inPol').innerHTML = val + 'cm';
+
+            document.getElementById('outKm').innerHTML = (val*1000) + 'm';
+            document.getElementById('inKm').innerHTML = val + 'km';
+
+            document.getElementById('outKg').innerHTML = (val*1000) + 'g';
+            document.getElementById('inKg').innerHTML = val + 'kg';
+		}
+	</script>
+</body>
+</html>

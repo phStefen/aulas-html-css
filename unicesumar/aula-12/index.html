@@ -93,6 +93,24 @@
         <p>Você também pode imprimir em Consoles! (abra o console para ver a mensagem)</p>
     </section>
 
+    <section id="case7">
+        <h2>Variáveis JavaScript</h2>
+        <p>Qual a saída para estes códigos em JS?</p>
+        <p>Código 1: var x = 5 + 2 + 3;</p>
+        <p id="cod1"></p>
+        <button onclick="document.getElementById('cod1').innerHTML = 5+2+3">Testar</button>
+
+        <br>
+        <p>Código 2: 'John' + ' ' + 'Doe'</p>
+        <p id="cod2"></p>
+        <button onclick="document.getElementById('cod2').innerHTML = 'John' + ' ' + 'Doe'">Testar</button>
+
+        <br>
+        <p>Código 3: '5' + (3 + 2)</p>
+        <p id="cod3"></p>
+        <button onclick="document.getElementById('cod3').innerHTML = '5' + (3 + 2)">Testar</button>
+    </section>
+
     <script type="text/javascript">
 		function myFunction(){
 			document.getElementById("outP").innerHTML = document.getElementById("inP").innerHTML;
