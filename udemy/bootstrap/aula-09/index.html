@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="pt-br">
+
+<head>
+
+    <title>Bootstrap - Navegação</title>
+
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="../css/bootstrap.min.css">
+
+</head>
+
+<body>
+    <div class="container mb-5">
+        <!--ANCHOR Estilos
+            nav-tabs
+            nav-pills
+        -->
+        <!--ANCHOR Alinhamentos
+            justify-content-start (default)
+            justify-content-center
+            Justify-content-end
+            flex-column (Estranho com nav-tabs)
+        -->
+        <h2>Naveção Simples | Abas</h2>
+        <ul class="nav nav-pills flex-column">
+            <li class="nav-item">
+                <a href="#" class="nav-link">Home</a>
+            </li>
+            <li class="nav-item">
+                <a href="#" class="nav-link">Sobre</a>
+            </li>
+            <li class="nav-item">
+                <a href="#" class="nav-link active">Serviços</a>
+            </li>
+            <li class="nav-item">
+                <a href="#" class="nav-link">Contato</a>
+            </li>
+        </ul>
+
+        <!--ANCHOR Cores
+            navbar-light bg-light
+            navbar-dark bg-dark
+            justify-content-center
+            Justify-content-end
+            flex-column (Estranho com nav-tabs)
+        -->
+        <!--ANCHOR Alinhamento
+            ml-auto
+        -->
+        <h2>Barra de Navegação Simples</h2>
+        <nav class="navbar navbar-expand-sm navbar-dark bg-dark">
+            <a href="" class="navbar-brand">Logo do Site</a>
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item">
+                    <a href="#" class="nav-link">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a href="#" class="nav-link">Sobre</a>
+                </li>
+                <li class="nav-item">
+                    <a href="#" class="nav-link">Serviços</a>
+                </li>
+                <li class="nav-item">
+                    <a href="#" class="nav-link">Contato</a>
+                </li>
+            </ul>
+        </nav>
+    </div>
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+        crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"
+        integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
+        crossorigin="anonymous"></script>
+    <script src="../js/bootstrap.min.js"></script>
+    <script src="https://kit.fontawesome.com/d5b6e882a9.js" crossorigin="anonymous"></script>
+    <script>
+        $(function () {
+            $('[data-toggle="tooltip"]').tooltip()
+        })
+
+        $('.nav-link').click(function () {
+            $('.nav-link').removeClass('active');
+            $(this).addClass('active');
+        });
+    </script>
+
+</body>
+
+</html>
