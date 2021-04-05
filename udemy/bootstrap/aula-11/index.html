@@ -1,0 +1,131 @@
+<!doctype html>
+<html lang="pt-br">
+
+<head>
+
+    <title>Bootstrap - Formulários</title>
+
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="../css/bootstrap.min.css">
+
+</head>
+
+<body style="margin-bottom: 200px; padding: 16px;">
+    <div class="container-fluid">
+
+        <form>
+            <!--SECTION Text-->
+            <!--ANCHOR form-group-sm-->
+            <div class="form-group">
+                <label for="usuario-sm">Usuário (Small)</label>
+                <input class="form-control form-control-sm" type="text" id="usuario-sm"
+                    placeholder="Digite seu Usuário">
+            </div>
+
+            <!--ANCHOR form-group-->
+            <div class="form-group">
+                <label for="usuario">Usuário (Normal)</label>
+                <input class="form-control" type="text" id="usuario" placeholder="Digite seu Usuário">
+            </div>
+
+            <!--ANCHOR form-group-lg-->
+            <div class="form-group">
+                <label for="usuario-lg">Usuário (Large)</label>
+                <input class="form-control form-control-lg" type="text" id="usuario-lg"
+                    placeholder="Digite seu Usuário">
+            </div>
+
+            <!--ANCHOR readonly-->
+            <div class="form-group">
+                <label for="readonly">Email (Readonly)</label>
+                <input class="form-control" type="text" id="readonly" placeholder="Digite seu Email" readonly>
+                <small class="form-text">Email será Validado (Form Text)</small>
+            </div>
+            <!--!SECTION Text-->
+
+            <!--SECTION Checkbox -->
+            <!--ANCHOR Select -->
+            <div class="form-group">
+                <label for="estados">Estados</label>
+                <select class="form-control" id="estados">
+                    <option>Acre</option>
+                    <option>Alagoas</option>
+                    <option>Amapá</option>
+                    <option>...</option>
+                </select>
+            </div>
+            <!--!SECTION Checkbox -->
+
+            <!--SECTION Textarea -->
+            <!--ANCHOR Textarea -->
+            <div class="form-group">
+                <label for="mensagem">Mensagem</label>
+                <textarea id="mensagem" rows="3" class="form-control"></textarea>
+            </div>
+            <!--!SECTION Textarea -->
+
+            <!--SECTION Inputs -->
+            <!--ANCHOR File -->
+            <div class="custom-file">
+                <label class="custom-file-label" for="arquivo">Selecione um Arquivo</label>
+                <input class="custom-file-input" type="file" id="arquivo">
+            </div>
+
+            <!--ANCHOR Range -->
+            <div class="form-group">
+                <label for="range">Satisfação</label>
+                <input class="custom-range" type="range"  id="range" min="1" max="5">
+            </div>
+
+            <!--ANCHOR Button -->
+            <input class="btn btn-primary" type="submit" value="Salvar">
+            <!--!SECTION Inputs -->
+        </form>
+
+        <!--SECTION Inline -->
+        <form class="mt-5 form-inline">
+            <input class="form-control mr-2" type="text" placeholder="Digite seu usuário">
+            <input class="form-control mr-2" type="password" placeholder="Digite sua Senha">
+            <input class="btn btn-primary mr-2" type="submit" value="Logar">
+        </form>
+        <!--!SECTION Inline -->
+
+        <!--SECTION Validações -->
+        <div class="form-group mt-5">
+            <label for="email-usuario">Email</label>
+            <input type="text" class="form-control is-valid" id="email-usuario" placeholder="Digite seu Email">   
+            <div class="valid-feedback">
+                Email Válido
+            </div> 
+        </div>
+        <div class="form-group">
+            <label for="senha-usuario">Senha</label>
+            <input type="text" class="form-control is-invalid" id="senha-usuario" placeholder="Digite sua Senha">
+            <div class="invalid-feedback">
+                Senha Inválida
+            </div>
+        </div>
+        <!--!SECTION Validações -->
+
+    </div>
+
+
+
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+        crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"
+        integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
+        crossorigin="anonymous"></script>
+    <script src="../js/bootstrap.min.js"></script>
+    <script src="https://kit.fontawesome.com/d5b6e882a9.js" crossorigin="anonymous"></script>
+</body>
+
+</html>
